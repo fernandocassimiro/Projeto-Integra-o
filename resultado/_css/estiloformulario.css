@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+header#cabecalho {
+ 
+    background-color: rgb(0, 45, 75);
+}
+
+header#cabecalho img#icone {
+    position: relative;
+    left: 10px ;
+    top: 0px ;
+    background-color: rgb(0, 45, 75);
+}
+
+
+nav#titulo h1 {
+
+    font-family: 'arial', sans-serif;
+    font-size: 24pt;
+    color: #ffffff;
+   
+    position: absolute;
+    top: 20px;
+    left: 600px;
+    padding-right: 150px;
+    
+}
+
+footer#rodape {
+    clear: both;
+}
+
+footer#rodape p {
+
+    text-align: center;
+
+}
